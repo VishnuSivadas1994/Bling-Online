@@ -12,4 +12,19 @@ const config = {
     messagingSenderId: "675393395021",
     appId: "1:675393395021:web:beb8407bc97d6ff2d0ff04",
     measurementId: "G-G0PGTT7LFC"
-}
+};
+
+
+
+firebase.initializeApp(config);
+
+export const auth = firebase.auth();
+export const firestore = firebase.firestore();
+
+const provider = new firebase.auth.GoogleAuthProvider();
+provider.setCustomParameters({
+    prompt: 'select_account'
+});
+export const signInWithGoogle = () => auth.signInWithPopup(provider);
+
+export default firebase;
