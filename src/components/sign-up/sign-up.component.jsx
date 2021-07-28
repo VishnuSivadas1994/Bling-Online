@@ -55,7 +55,7 @@ class SignUp extends React.Component {
         const { name, value } = event.target;
 
         this.setState({
-            [name]:value
+            [name]: value
         });
     }
 
