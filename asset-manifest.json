@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bling-Online/static/css/main.0ab8dde7.chunk.css",
+    "main.js": "/Bling-Online/static/js/main.e2a8f73e.chunk.js",
+    "main.js.map": "/Bling-Online/static/js/main.e2a8f73e.chunk.js.map",
+    "runtime-main.js": "/Bling-Online/static/js/runtime-main.96acc8f7.js",
+    "runtime-main.js.map": "/Bling-Online/static/js/runtime-main.96acc8f7.js.map",
+    "static/js/2.dbf73975.chunk.js": "/Bling-Online/static/js/2.dbf73975.chunk.js",
+    "static/js/2.dbf73975.chunk.js.map": "/Bling-Online/static/js/2.dbf73975.chunk.js.map",
+    "static/js/3.ac5c7472.chunk.js": "/Bling-Online/static/js/3.ac5c7472.chunk.js",
+    "static/js/3.ac5c7472.chunk.js.map": "/Bling-Online/static/js/3.ac5c7472.chunk.js.map",
+    "index.html": "/Bling-Online/index.html",
+    "service-worker.js": "/Bling-Online/service-worker.js",
+    "service-worker.js.map": "/Bling-Online/service-worker.js.map",
+    "static/css/main.0ab8dde7.chunk.css.map": "/Bling-Online/static/css/main.0ab8dde7.chunk.css.map",
+    "static/js/2.dbf73975.chunk.js.LICENSE.txt": "/Bling-Online/static/js/2.dbf73975.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/Bling-Online/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/Bling-Online/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96acc8f7.js",
+    "static/js/2.dbf73975.chunk.js",
+    "static/css/main.0ab8dde7.chunk.css",
+    "static/js/main.e2a8f73e.chunk.js"
+  ]
+}
